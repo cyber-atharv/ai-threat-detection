@@ -11,3 +11,6 @@ All notable changes to ai-threat-detection will be documented in this file.
 ## [0.1.2] - 2026-08-04
 - feat: implement 4-stage async log processing pipeline with Redis pub/sub
 
+## [0.1.3] - 2026-08-06
+- feat: export models to ONNX Runtime for high-throughput CPU inference
+
