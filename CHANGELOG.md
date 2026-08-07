@@ -14,3 +14,6 @@ All notable changes to ai-threat-detection will be documented in this file.
 ## [0.1.3] - 2026-08-06
 - feat: export models to ONNX Runtime for high-throughput CPU inference
 
+## [0.1.4] - 2026-08-07
+- feat: add WebSocket live alert feed and automated retraining loop
+
