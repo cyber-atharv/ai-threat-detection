@@ -17,3 +17,6 @@ All notable changes to ai-threat-detection will be documented in this file.
 ## [0.1.4] - 2026-08-07
 - feat: add WebSocket live alert feed and automated retraining loop
 
+## [0.1.5] - 2026-08-09
+- docs: add end-to-end architecture diagram and attack simulation guide
+
